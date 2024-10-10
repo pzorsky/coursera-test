@@ -1,0 +1,8 @@
+.row {
+	margin-bottom: 15 px;
+}
+
+.row >div {
+	border: 2px solid black;
+	background-color: lightgreen;
+}
